@@ -1,3 +1,5 @@
+#modificado
+
 from random import randint
 
 options = ["Piedra", "Papel", "Tijeras"]
@@ -8,6 +10,7 @@ options = ["Piedra", "Papel", "Tijeras"]
 #'Perdiste!'
 def quienGana(player, ai):
     return ""
+
 
 # Entry Point
 def Game():
